@@ -1,4 +1,4 @@
-# google-playstore-data-analysis
+
 # Exploratory Data Analysis on Google Playstore App Data
 
 This project is a part of the course "Data Analysis: Zero to Pandas" offered by Jovian. The project focuses on performing exploratory data analysis on the Google Playstore App data using Python libraries such as Pandas, Matplotlib, and Seaborn.
@@ -39,8 +39,8 @@ The project relies on the following Python libraries:
 
 The project is organized as follows:
 
-- `data/`: Directory containing the dataset file (`google_playstore_apps.csv`).
-- `Exploratory_Data_Analysis_Google_Playstore.ipynb`: Jupyter Notebook containing the project code, analysis, and visualizations.
+- `data/`: Directory containing the dataset file (`googleplaystore.csv`).
+- `google_Playstore_data.ipynb`: Jupyter Notebook containing the project code, analysis, and visualizations.
 - `README.md`: This README file, providing an overview of the project.
 
 ## Getting Started
@@ -59,7 +59,7 @@ To run the project and reproduce the analysis:
    pip install pandas matplotlib seaborn jovian
    ```
 
-3. Open and run the `Google_Playstore.ipynb` notebook using Jupyter Notebook or any compatible environment.
+3. Open and run the `google_Playstore_data.ipynb` notebook using Jupyter Notebook or any compatible environment.
 
 4. Follow the instructions in the notebook to execute the code cells and explore the data analysis and visualizations.
 
